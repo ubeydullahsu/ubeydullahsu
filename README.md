@@ -92,8 +92,16 @@ I love debugging, writing clean C/C++ code, and designing smart embedded platfor
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubeydullahsu&show_icons=true&theme=github_light&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubeydullahsu&layout=compact&theme=github_light&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ubeydullahsu&show_icons=true&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ubeydullahsu&layout=compact&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubeydullahsu&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ubeydullahsu" />
 </p>
 
 ---
