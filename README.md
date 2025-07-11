@@ -24,6 +24,8 @@ I love debugging, writing clean C/C++ code, and designing smart embedded platfor
 
 ### 🔧 Embedded & Dev Tools  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Renesas](https://img.shields.io/badge/Renesas-005AAF?style=flat)
+![SHARC+](https://img.shields.io/badge/SHARC+-black?style=flat&logo=analogdevices&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400?style=flat)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Keil](https://img.shields.io/badge/Keil-uVision-blue)
