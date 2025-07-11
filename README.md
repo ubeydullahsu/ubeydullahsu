@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Derya Kara ˚˖𓍢ִ໋🍃✧˚.💚⋆ </h1>
+<h1 align="center">Hi, I'm Derya Kara ⋅˚₊‧ ଳ ‧₊˚ ⋅ </h1>
 <p align="center">🔧 Embedded Systems · 🔍 Reverse Engineering · 🧠 Signal Processing · 🤖 Robotics · 🔐 Security</p>
 
 ---
