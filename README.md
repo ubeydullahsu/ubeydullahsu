@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Derya Kara 👋</h1>
+<h1 align="center">Hi, I'm Derya Kara ⊹₊⟡⋆ </h1>
 <p align="center">🔧 Embedded Systems · 🔍 Reverse Engineering · 🧠 Signal Processing · 🤖 Robotics · 🔐 Security</p>
 
 ---
 
-## 💫 About Me
+## ⋆.˚🦋༘⋆ About Me ⋆.˚🦋༘⋆
 
 I’m an embedded systems and signal processing engineer with a focus on low-level development, real-time systems, and hardware-software integration.  
 I love debugging, writing clean C/C++ code, and designing smart embedded platforms from scratch.
