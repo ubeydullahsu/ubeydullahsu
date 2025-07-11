@@ -97,7 +97,7 @@ I love debugging, writing clean C/C++ code, and designing smart embedded platfor
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubeydullahsu&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ubeydullahsu&hide_border=true"/>
 </p>
 
 <p align="center">
