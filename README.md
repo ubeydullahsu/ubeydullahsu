@@ -123,4 +123,4 @@ I love debugging, writing clean C/C++ code, and designing smart embedded platfor
 ---
 
 ## ☕ Fun Fact  
-When I’m not coding embedded software or breaking binaries, I’m probably reverse-engineering some weird piece of hardware... or making tea.
+When I’m not coding embedded software or breaking binaries, I’m probably reverse-engineering some weird piece of hardware... or making coffee.
