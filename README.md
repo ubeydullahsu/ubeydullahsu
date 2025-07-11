@@ -96,7 +96,7 @@ I love debugging, writing clean C/C++ code, and designing smart embedded platfor
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ddkara/" target="_blank">
@@ -104,6 +104,9 @@ I love debugging, writing clean C/C++ code, and designing smart embedded platfor
   </a>
   <a href="mailto:justddkara@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-justddkara@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01dda827666922a3eb?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-View%20My%20Profile-success?style=for-the-badge&logo=upwork" />
   </a>
 </p>
 
