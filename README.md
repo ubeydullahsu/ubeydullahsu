@@ -5,8 +5,8 @@
 
 ## ⋆.˚🦋༘⋆ About Me ⋆.˚🦋༘⋆
 
-I’m an embedded systems and signal processing engineer with a focus on low-level development, real-time systems, and hardware-software integration.  
-I love debugging, writing clean code, and designing smart embedded platforms from scratch.
+I’m an embedded systems and algorithm development engineer with a focus on low-level development, real-time systems, and hardware-software integration.  
+I love debugging, writing clean code, designing smart embedded platforms from scratch, and reverse engineering.
 
 ---
 
