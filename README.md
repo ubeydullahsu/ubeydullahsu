@@ -21,7 +21,6 @@ I love debugging, writing clean code, designing smart embedded platforms from sc
 ![VHDL](https://img.shields.io/badge/VHDL-800000?style=flat&logoColor=white)
 
 ---
-https://github.com/ubeydullahsu/ubeydullahsu/edit/main/README.md
 ### 🔧 Embedded & Dev Tools  
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-005C84?style=flat&logo=espressif&logoColor=white)
